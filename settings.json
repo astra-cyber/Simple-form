@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.autoSave": "afterDelay",
+    "python.defaultInterpreterPath": "C:\\Users\\vanit\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
